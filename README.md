@@ -1,3 +1,6 @@
+
+
+![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/zmqrpc?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/zmqrpc?branch=master&svg=true)
 ZMQRPC
 ======
 
